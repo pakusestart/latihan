@@ -1,0 +1,3 @@
+Image: https://stupid-coffee-cow.myfilebase.com/ipfs/QmccSnJujGUhJcKpnQcfhi4VUiFuM4Wk4w331pgyg1z3Sm 
+
+### 11. Berdasarkan tabel, selisih volume tangki air paling besar dan paling kecil adalah ...

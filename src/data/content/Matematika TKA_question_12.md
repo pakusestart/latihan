@@ -1,0 +1,3 @@
+Image: https://stupid-coffee-cow.myfilebase.com/ipfs/Qmc3hcw7B6xda6EVXZuycLMesruaRwsJak5joPVBqPApBT
+
+### 12. Berdasarkan data grafik, rumah yang dihuni oleh 4 orang atau lebih sebanyak ...

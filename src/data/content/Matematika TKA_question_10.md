@@ -1,0 +1,3 @@
+Image: https://stupid-coffee-cow.myfilebase.com/ipfs/QmNhPzkRkrkJ8tg8faKaavFrgcD3hRQszPKf1Bmn75wg5N
+
+### 10. Perhatikan gambar gabungan. Keliling gabungan bangun datar tersebut adalah ...

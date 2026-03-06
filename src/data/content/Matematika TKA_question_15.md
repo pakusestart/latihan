@@ -1,0 +1,3 @@
+Image: https://stupid-coffee-cow.myfilebase.com/ipfs/QmbdToDbsAM7YmEo419zkbesa2M64iKs6Pquy6bmAbm5tm
+
+### 15. Diagram pendidikan 400 karyawan. SD 45%, SMA 12%, Tidak Sekolah 8%. Karyawan tamatan SMP adalah ...

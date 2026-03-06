@@ -20,7 +20,7 @@ export const PUZZLE_PACKS: PuzzlePack[] = [
   {
     id: 'bahasa-indonesia',
     title: 'Bahasa Indonesia',
-    description: 'Language & Logic',
+    description: 'Language & Logic for 6th Graders',
     icon: 'functions',
     color: 'indigo',
     imageUrl: 'https://stupid-coffee-cow.myfilebase.com/ipfs/QmQnWoce3zYX7mm6gYUZaxyer4DkvYwx4oaob4KoEGHWzH',
@@ -31,8 +31,20 @@ export const PUZZLE_PACKS: PuzzlePack[] = [
   },
   {
     id: 'math-angle',
+    title: 'Matematika TKA',
+    description: 'Mathematics TKA for 6th Graders',
+    icon: 'category',
+    color: 'amber',
+    imageUrl: 'https://stupid-coffee-cow.myfilebase.com/ipfs/Qmf66pBsSe8V8yKSCBYMYhcFKEbpuo5voN9bYkbttLhmqp',
+    challengesCount: 8,
+    progress: 0,
+    difficulty: 'Medium',
+    questions: getQuestionsForPack('Matematika TKA') as any
+  },
+  {
+    id: 'math-angle',
     title: 'Matematika Garis dan Sudut',
-    description: 'Mathematics of Lines & Angles',
+    description: 'Mathematics of Lines & Angles for 7th Graders',
     icon: 'category',
     color: 'amber',
     imageUrl: 'https://stupid-coffee-cow.myfilebase.com/ipfs/Qmf66pBsSe8V8yKSCBYMYhcFKEbpuo5voN9bYkbttLhmqp',

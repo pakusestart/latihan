@@ -1,0 +1,3 @@
+Image: https://stupid-coffee-cow.myfilebase.com/ipfs/QmNvKjRBPR22Akow29eSmXNm6FcjC4yrfBBHyu9yBM9RYK
+
+### 13. Jika jumlah siswa kelas VI 20 anak, banyak siswa yang gemar olahraga adalah ...

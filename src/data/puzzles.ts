@@ -26,7 +26,7 @@ export const PUZZLE_PACKS: PuzzlePack[] = [
     imageUrl: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800',
     challengesCount: 12,
     progress: 0,
-  difficulty: 'Easy',
+    difficulty: 'Easy',
     questions: getQuestionsForPack('Bahasa Indonesia') as any
   },
   {

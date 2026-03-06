@@ -328,7 +328,7 @@ export default function App() {
                   <div className="absolute -inset-8 border border-white/5 rounded-[80px]" />
                   
                   <img 
-                    src="https://stupid-coffee-cow.myfilebase.com/ipfs/QmeXnF56z1o3tyFWeTfc2i6rQDTVZbg2CNC11E2QZd85sp"
+                    src="https://stupid-coffee-cow.myfilebase.com/ipfs/QmdLGrYB3Xf7M3cpn6GLnpq8r3gF6hAdRFhrTufv9coAmc"
                     alt="Magic Book"
                     className="w-full h-full object-contain rounded-[40px] relative z-10 drop-shadow-[0_32px_64px_rgba(0,0,0,0.6)]"
                   />

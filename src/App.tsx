@@ -328,7 +328,7 @@ export default function App() {
                   <div className="absolute -inset-8 border border-white/5 rounded-[80px]" />
                   
                   <img 
-                    src="https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&q=80&w=800"
+                    src="https://stupid-coffee-cow.myfilebase.com/ipfs/QmYRnMEEimyV4vLJZAk7tZ6E5oTVYEkugysk3yvuEuqU3e"
                     alt="Magic Book"
                     className="w-full h-full object-contain rounded-[40px] relative z-10 drop-shadow-[0_32px_64px_rgba(0,0,0,0.6)]"
                   />
@@ -371,7 +371,7 @@ export default function App() {
                       transition={{ delay: 0.4 }}
                       className="text-purple-100/80 text-xl md:text-2xl font-medium max-w-lg leading-relaxed mx-auto"
                     >
-                      Unravel magical mysteries and sharpen your mind with enchanted puzzles.
+                      Dunia butuh orang hebat kayak kamu. Jangan biarkan rasa malas hari ini ngerusak mimpi besarmu besok. Semangat ya, pelan-pelan asal jalan terus!
                     </motion.p>
                   </div>
 

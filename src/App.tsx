@@ -328,7 +328,7 @@ export default function App() {
                   <div className="absolute -inset-8 border border-white/5 rounded-[80px]" />
                   
                   <img 
-                    src="https://stupid-coffee-cow.myfilebase.com/ipfs/QmYRnMEEimyV4vLJZAk7tZ6E5oTVYEkugysk3yvuEuqU3e"
+                    src="https://stupid-coffee-cow.myfilebase.com/ipfs/QmeXnF56z1o3tyFWeTfc2i6rQDTVZbg2CNC11E2QZd85sp"
                     alt="Magic Book"
                     className="w-full h-full object-contain rounded-[40px] relative z-10 drop-shadow-[0_32px_64px_rgba(0,0,0,0.6)]"
                   />
@@ -438,7 +438,7 @@ export default function App() {
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400">Magic Pack</span>
                   </h3>
                   <p className="text-white/60 text-xl md:text-2xl font-medium max-w-xl leading-relaxed">
-                    Choose a category to start your daily brain workout and unlock ancient wisdom.
+                    Pilih paket tantangan yang ingin kamu hadapi hari ini. Setiap paket berisi teka-teki unik yang akan mengasah logika dan kreativitasmu.
                   </p>
                 </div>
                 

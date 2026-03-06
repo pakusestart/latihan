@@ -39,7 +39,7 @@ export const PUZZLE_PACKS: PuzzlePack[] = [
     challengesCount: 8,
     progress: 0,
     difficulty: 'Medium',
-    questions: getQuestionsForPack('Mystic Patterns') as any
+    questions: getQuestionsForPack('Matematika Garis dan Sudut') as any
   },
   {
     id: 'fairy-riddles',

@@ -1,5 +1,7 @@
 
-import { Question } from '../../types';
+/// <reference types="vite/client" />
+
+import { Question } from '../types';
 
 // Load all markdown files eagerly
 const questionFiles = import.meta.glob('./content/*_question_*.md', { as: 'raw', eager: true });

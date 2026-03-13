@@ -54,6 +54,18 @@ export const PUZZLE_PACKS: PuzzlePack[] = [
     questions: getQuestionsForPack('Matematika Garis dan Sudut') as any
   },
   {
+    id: 'tka-bahasa-indonesia',
+    title: 'TKA Bahasa Indonesia',
+    description: 'Ujian Tulis Bahasa Indonesia untuk Siswa Kelas 6',
+    icon: 'category',
+    color: 'indigo',
+    imageUrl: 'https://stupid-coffee-cow.myfilebase.com/ipfs/QmQnWoce3zYX7mm6gYUZaxyer4DkvYwx4oaob4KoEGHWzH',
+    challengesCount: 12,
+    progress: 0,
+    difficulty: 'Hard',
+    questions: getQuestionsForPack('TKA Bahasa Indonesia') as any
+  },
+  {
     id: 'fairy-riddles',
     title: 'Fairy Riddles',
     description: 'Whispers from the Pixies',
